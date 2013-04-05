@@ -2,7 +2,7 @@
 
 0) Link to the Array documentation:
 
-1) Direct Link to the `Array#delete_if` method:
+1) Direct Link to the `Array#delete_if` method: http://ruby-doc.org/core-2.0/Array.html#method-i-delete_if
 
 2) Link to `Fixnum` docs:
 
